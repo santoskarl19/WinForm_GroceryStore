@@ -1,0 +1,11 @@
+C:\MSSA\Week 5\Assignment\Assignment_5.3\WinForm_GroceryStore\obj\Debug\WinForm_GroceryStore.csproj.AssemblyReference.cache
+C:\MSSA\Week 5\Assignment\Assignment_5.3\WinForm_GroceryStore\obj\Debug\WinForm_GroceryStore.csproj.SuggestedBindingRedirects.cache
+C:\MSSA\Week 5\Assignment\Assignment_5.3\WinForm_GroceryStore\obj\Debug\WinForm_GroceryStore.Form1.resources
+C:\MSSA\Week 5\Assignment\Assignment_5.3\WinForm_GroceryStore\obj\Debug\WinForm_GroceryStore.Properties.Resources.resources
+C:\MSSA\Week 5\Assignment\Assignment_5.3\WinForm_GroceryStore\obj\Debug\WinForm_GroceryStore.csproj.GenerateResource.cache
+C:\MSSA\Week 5\Assignment\Assignment_5.3\WinForm_GroceryStore\obj\Debug\WinForm_GroceryStore.csproj.CoreCompileInputs.cache
+C:\MSSA\Week 5\Assignment\Assignment_5.3\WinForm_GroceryStore\bin\Debug\WinForm_GroceryStore.exe.config
+C:\MSSA\Week 5\Assignment\Assignment_5.3\WinForm_GroceryStore\bin\Debug\WinForm_GroceryStore.exe
+C:\MSSA\Week 5\Assignment\Assignment_5.3\WinForm_GroceryStore\bin\Debug\WinForm_GroceryStore.pdb
+C:\MSSA\Week 5\Assignment\Assignment_5.3\WinForm_GroceryStore\obj\Debug\WinForm_GroceryStore.exe
+C:\MSSA\Week 5\Assignment\Assignment_5.3\WinForm_GroceryStore\obj\Debug\WinForm_GroceryStore.pdb
